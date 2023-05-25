@@ -1,0 +1,16 @@
+package com.greedy.section02.template;
+
+import java.io.Closeable;
+import java.sql.Connection;
+
+public class Application01 {
+
+	public static void main(String[] args) {
+		Connection con  = getConnection();
+		System.out.println(con);
+		
+		Closecon);
+
+	}
+
+}
